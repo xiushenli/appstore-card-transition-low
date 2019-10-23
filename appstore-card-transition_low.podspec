@@ -11,8 +11,8 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "appstore-card-transition-ios10"
-  s.version      = "2.0.0"
+  s.name         = "appstore-card-transition-low"
+  s.version      = "1.0.0"
   s.summary      = "Appstore card animation transition. UICollectionView and UITableView card expand animated transition for iOS."
   s.module_name  = 'AppstoreTransition'
   s.swift_version = '5.0'
@@ -26,8 +26,7 @@ Pod::Spec.new do |s|
   Appstore card animation transition. UICollectionView and UITableView card expand animated transition for iOS. Expandable collectionview and tableview cells. Master detail transition animation.
   DESC
 
-  s.homepage     = "https://github.com/ls19491314/appstore-card-transition-ios10"
-  s.screenshots  = "https://github.com/appssemble/appstore-card-transition/blob/master/gif/example1.gif?raw=true", "https://github.com/appssemble/appstore-card-transition/blob/master/gif/example2.gif?raw=true"
+  s.homepage     = "https://github.com/xiushenli/appstore-card-transition-low.git"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -73,7 +72,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/ls19491314/appstore-card-transition-ios10", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/xiushenli/appstore-card-transition-low.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
