@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   Appstore card animation transition. UICollectionView and UITableView card expand animated transition for iOS. Expandable collectionview and tableview cells. Master detail transition animation.
   DESC
 
-  s.homepage     = "https://github.com/appssemble/appstore-card-transition"
+  s.homepage     = "https://github.com/ls19491314/appstore-card-transition-ios10"
   s.screenshots  = "https://github.com/appssemble/appstore-card-transition/blob/master/gif/example1.gif?raw=true", "https://github.com/appssemble/appstore-card-transition/blob/master/gif/example2.gif?raw=true"
 
 
@@ -73,7 +73,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/appssemble/appstore-card-transition.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/ls19491314/appstore-card-transition-ios10", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
